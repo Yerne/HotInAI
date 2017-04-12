@@ -1,1 +1,1 @@
-[Sonnet](https://github.com/deepmind/sonnet) released opensource with 
+[Sonnet](https://github.com/deepmind/sonnet) released opensource  
