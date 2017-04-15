@@ -1,7 +1,7 @@
 [Sonnet](https://github.com/deepmind/sonnet) released opensource  
 [TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
 
-<div><b>Scientific papers <br />< /div>
+<div><b>Scientific papers <br /></b><div>
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
