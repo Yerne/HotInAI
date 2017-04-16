@@ -11,5 +11,5 @@ K-nearest neighbour classification (K-NN) <br />
 Decision trees <br />
 [Stochastic Gradient Boosted Distributed Decision Trees](https://pdfs.semanticscholar.org/2ee4/b8bc544020c14d8be093182093dc16327c26.pdf)
 
-Books <br />
+<b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
