@@ -1,4 +1,4 @@
-<b> Software and applications libraries <b /><br />
+<b> Software and applications libraries <br /></b>
 [Sonnet](https://github.com/deepmind/sonnet) released opensource  
 [TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
 
