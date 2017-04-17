@@ -2,7 +2,7 @@
 [Sonnet](https://github.com/deepmind/sonnet) released opensource  
 [TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
 
-<b>Scientific papers <br /></b>
+<b>Algorithms scientific papers<br /></b>
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
@@ -17,3 +17,6 @@ Decision trees <br />
 
 <b>Articles <br /></b>
 [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
+
+<b>Time Series analysis research papers<br /></b>
+[Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)
