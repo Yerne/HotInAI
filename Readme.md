@@ -3,7 +3,8 @@
 [TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
 
 <b>2. Scientific papers<br /></b>
-2.1 Algorithms in general
+2.1 Algorithms in general <br />
+
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
