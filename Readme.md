@@ -14,3 +14,6 @@ Decision trees <br />
 
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
+
+<b>Articles <br /></b>
+[5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
