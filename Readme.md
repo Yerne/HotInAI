@@ -1,6 +1,13 @@
 <b>1. Software and applications libraries <br /></b>
+1.1 General platforms
+
 [Sonnet](https://github.com/deepmind/sonnet) released opensource  
 [TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
+
+1.2 Specific libraries
+1.2.1 Time series analysis code
+1.2.2 Computer vision
+1.2.3 Speech to text
 
 <b>2. Scientific papers<br /></b>
 2.1 Algorithms in general <br />
