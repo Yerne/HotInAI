@@ -12,7 +12,7 @@ K-nearest neighbour classification (K-NN) <br />
 Decision trees <br />
 [Stochastic Gradient Boosted Distributed Decision Trees](https://pdfs.semanticscholar.org/2ee4/b8bc544020c14d8be093182093dc16327c26.pdf)
 
-2.1 Time Series analysis research papers
+2.1 Time Series analysis research papers <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)
 
 <b>Books <br /></b>
