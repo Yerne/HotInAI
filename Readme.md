@@ -23,6 +23,7 @@ Decision trees <br />
 
 2.2 Time Series analysis algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)
+[Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)
 
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
