@@ -22,14 +22,14 @@ Decision trees <br />
 [Stochastic Gradient Boosted Distributed Decision Trees](https://pdfs.semanticscholar.org/2ee4/b8bc544020c14d8be093182093dc16327c26.pdf)
 
 Self Organized maps <br />
-[A Visual Measure of Changes to Weighted Self-Organizing Map Patterns](https://arxiv.org/pdf/1703.08917.pdf)<br />
+[A Visual Measure of Changes to Weighted Self-Organizing Map Patterns](https://arxiv.org/pdf/1703.08917.pdf) <br />
 
 2.2 Time Series analysis algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
 
 2.3 Other <br />
-[Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)
+[Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
 
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
