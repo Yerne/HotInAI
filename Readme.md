@@ -28,6 +28,9 @@ Self Organized maps <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
 
+2.3 Other <br />
+[Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)
+
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 
