@@ -12,7 +12,6 @@
 <b>2. Scientific papers<br /></b>
 2.1 General algorithms <br />
 
-[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
@@ -32,6 +31,7 @@ Self Organized maps <br />
 2.3 Other <br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
 
+[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 
