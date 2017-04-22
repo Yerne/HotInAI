@@ -12,6 +12,7 @@
 <b>2. Scientific papers<br /></b>
 2.1 General algorithms <br />
 
+[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
