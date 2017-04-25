@@ -1,3 +1,4 @@
+<b> Part I: WHAT IT IS ALL ABOUT<br /></b>
 <b>1. Software and applications libraries <br /></b>
 1.1 General platforms
 
@@ -45,3 +46,6 @@ Self Organized maps <br />
 
 <b>Visualisations and presentations<br /></b>
 ["Seeing theory"](http://students.brown.edu/seeing-theory/index.html)
+
+
+<b> Part II: HOW TO APPLY( <br /></b>
