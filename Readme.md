@@ -39,4 +39,5 @@ Self Organized maps <br />
 
 <b>Articles <br /></b>
 [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
-
+<b>Cheat Sheets <br /></b>
+[NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/images/cheat-sheets/numpy-cheat-sheet.pdf)
