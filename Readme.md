@@ -44,3 +44,4 @@ Self Organized maps <br />
 [NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/images/cheat-sheets/numpy-cheat-sheet.pdf)<br />
 
 <b>Visualisations and presentations<br /></b>
+["Seeing theory"](http://students.brown.edu/seeing-theory/index.html)
