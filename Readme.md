@@ -1,17 +1,7 @@
 <b> Part I: WHAT <br /></b>
-<b>1. Software and applications libraries <br /></b>
-1.1 General platforms
 
-[Sonnet](https://github.com/deepmind/sonnet) released opensource  
-[TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists
-
-1.2 Specific libraries <br />
-1.2.1 Time series analysis code <br />
-1.2.2 Computer vision <br />
-1.2.3 Speech to text <br />
-
-<b>2. Scientific papers<br /></b>
-2.1 General algorithms <br />
+<b>1. Scientific papers<br /></b>
+1.1 General algorithms <br />
 
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
@@ -25,13 +15,13 @@ Decision trees <br />
 Self Organized maps <br />
 [A Visual Measure of Changes to Weighted Self-Organizing Map Patterns](https://arxiv.org/pdf/1703.08917.pdf) <br />
 
-2.2 Time Series analysis algorithms <br />
+1.2 Time Series analysis algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
 [The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)<br />
 [Time Series Prediction for Graphs in Kernel and Dissimilarity Spaces](https://arxiv.org/pdf/1704.06498v1.pdf)<br />
 
-2.3 Other algorithms<br />
+1.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
 [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
 
@@ -49,3 +39,14 @@ Self Organized maps <br />
 
 
 <b> Part II: HOW TO <br /></b>
+<b>1. Software and applications libraries <br /></b>
+
+1.1 Platforms <br />
+
+[Sonnet](https://github.com/deepmind/sonnet) released opensource  <br />
+[TensorFlow Board](https://www.youtube.com/watch?v=eBbEDRsCmv4) overview for data scientists<br />
+
+1.2 Specific libraries <br />
+1.2.1 Time series analysis code <br />
+1.2.2 Computer vision <br />
+1.2.3 Speech to text <br />
