@@ -36,7 +36,7 @@ Self Organized maps <br />
 
 <b>Visualisations and presentations<br /></b>
 ["Seeing theory"](http://students.brown.edu/seeing-theory/index.html)<br />
-["Big Data landscape 2016"]https://medium.com/graphiti-xyz/7-disruptive-trends-to-watch-for-in-analytics-in-2017-bccb4c64d232]<br />
+["Big Data landscape 2016"](https://medium.com/graphiti-xyz/7-disruptive-trends-to-watch-for-in-analytics-in-2017-bccb4c64d232])<br />
 
 <b> Part II: HOW TO APPLY<br /></b>
 <b>1. Software and applications libraries <br /></b>
