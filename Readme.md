@@ -27,7 +27,8 @@ Self Organized maps <br />
 2.2 Time Series analysis algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
-[The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)
+[The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)<br />
+[Time Series Prediction for Graphs in Kernel and Dissimilarity Spaces](https://arxiv.org/pdf/1704.06498v1.pdf)<br />
 
 2.3 Other <br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
