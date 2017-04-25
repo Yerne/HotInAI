@@ -30,14 +30,17 @@ Self Organized maps <br />
 [The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)<br />
 [Time Series Prediction for Graphs in Kernel and Dissimilarity Spaces](https://arxiv.org/pdf/1704.06498v1.pdf)<br />
 
-2.3 Other <br />
+2.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
-
 [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
+
 <b>Books <br /></b>
 [Machine Learning. A Probabilistic Perspective. Kevin P. Murphy](https://www.cse.iitk.ac.in/users/aayush/mail/machineLearningAProbabilisticPerspectiveMurphy.pdf)
 
 <b>Articles <br /></b>
 [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)<br />
+
 <b>Cheat Sheets <br /></b>
-[NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/images/cheat-sheets/numpy-cheat-sheet.pdf)
+[NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/images/cheat-sheets/numpy-cheat-sheet.pdf)<br />
+
+<b>Visualisations and presentations<br /></b>
