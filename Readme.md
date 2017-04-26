@@ -1,6 +1,6 @@
 <b> Part I: WHAT WE APPLY<br /></b>
 
-<b>1. Scientific papers<br /></b>
+<b>1. Research papers<br /></b>
 1.1 General algorithms <br />
 
 Canonical Correlation Analysis (CCA) <br />
