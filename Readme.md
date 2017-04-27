@@ -18,6 +18,9 @@ Self Organized maps <br />
 Boltzmann Machines <br />
 [A Practical Guide to Training Restricted Boltzmann Machines](https://pdfs.semanticscholar.org/77c3/cf0e846a8485acf82beed186c086d9d9e68b.pdf)<br/>
 
+Deep Learning <br />
+[Dropout:  A Simple Way to Prevent Neural Networks from Overfitting](https://pdfs.semanticscholar.org/94c9/1c28fa6c9cebd18dbca0ac2e502b1e9abce7.pdf)<br />
+
 1.2 Time Series analysis algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
