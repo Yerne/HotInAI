@@ -14,6 +14,7 @@ Decision trees <br />
 
 Self Organized maps <br />
 [A Visual Measure of Changes to Weighted Self-Organizing Map Patterns](https://arxiv.org/pdf/1703.08917.pdf) <br />
+[A self-organizing map analysis of survey-based agents' expectations before impending shocks for model selection: The case of the 2008 financial crisis](http://www.sciencedirect.com/science/article/pii/S2110701715000694)<br />
 
 Boltzmann Machines <br />
 [A Practical Guide to Training Restricted Boltzmann Machines](https://pdfs.semanticscholar.org/77c3/cf0e846a8485acf82beed186c086d9d9e68b.pdf)<br/>
