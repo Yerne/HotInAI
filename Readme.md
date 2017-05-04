@@ -18,6 +18,7 @@ Self Organized maps <br />
 
 Multi-armed Bandit model<br />
 [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](http://www.nowpublishers.com.sci-hub.cc/article/Details/MAL-024) <br />
+[Analysis of Thompson Sampling for the Multi-armed Bandit Problem](https://pdfs.semanticscholar.org/fbee/727620d135b521f2b5a261065f063b5c9407.pdf)<br />
 
 Boltzmann Machines <br />
 [A Practical Guide to Training Restricted Boltzmann Machines](https://pdfs.semanticscholar.org/77c3/cf0e846a8485acf82beed186c086d9d9e68b.pdf)<br/>
