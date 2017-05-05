@@ -15,6 +15,7 @@ Decision trees <br />
 Self Organized maps <br />
 [A Visual Measure of Changes to Weighted Self-Organizing Map Patterns](https://arxiv.org/pdf/1703.08917.pdf) <br />
 [A self-organizing map analysis of survey-based agents' expectations before impending shocks for model selection: The case of the 2008 financial crisis](http://www.sciencedirect.com/science/article/pii/S2110701715000694)<br />
+[AMSOM: Adaptive Moving Self-organizing Map for Clustering and Visualization](https://pdfs.semanticscholar.org/9a3b/fbdb3289b417639a3584f752b1b1db2cf2e8.pdf)<br />
 
 Multi-armed Bandit model<br />
 [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](http://www.nowpublishers.com.sci-hub.cc/article/Details/MAL-024) <br />
