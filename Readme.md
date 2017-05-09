@@ -44,6 +44,8 @@ Deep Learning <br />
 <b>Articles <br /></b>
 [5 algorithms to train a neural network](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)<br />
 [Notes on Artificial Intelligence](http://frnsys.com/ai_notes)<br />
+[A new kind of deep neural networks](https://medium.com/towards-data-science/a-new-kind-of-deep-neural-networks-749bcde19108)<br />
+
 
 <b>Cheat Sheets <br /></b>
 [NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/images/cheat-sheets/numpy-cheat-sheet.pdf)<br />
