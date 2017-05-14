@@ -33,6 +33,7 @@ Deep Learning <br />
 [The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)<br />
 [Time Series Prediction for Graphs in Kernel and Dissimilarity Spaces](https://arxiv.org/pdf/1704.06498v1.pdf)<br />
 [Deep Learning for Time-Series Analysis](https://arxiv.org/pdf/1701.01887.pdf) <br />
+[Deep Learning for Time Series Modeling(2012)](http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf)<br />
 
 1.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
