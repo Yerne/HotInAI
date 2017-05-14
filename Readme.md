@@ -3,6 +3,8 @@
 <b>1. Research papers<br /></b>
 1.1 General algorithms <br />
 
+Support vector regression <br />
+
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
 
@@ -54,6 +56,7 @@ Deep Learning <br />
 <b>Visualisations and presentations<br /></b>
 ["Seeing theory"](http://students.brown.edu/seeing-theory/index.html)<br />
 ["Big Data landscape 2016"](https://medium.com/graphiti-xyz/7-disruptive-trends-to-watch-for-in-analytics-in-2017-bccb4c64d232])<br />
+[Linear Regression and Support Vector Regression](http://cs.adelaide.edu.au/~chhshen/teaching/ML_SVR.pdf) <br />
 
 <b> Part II: HOW TO APPLY<br /></b>
 <b>1. Software and applications libraries <br /></b>
