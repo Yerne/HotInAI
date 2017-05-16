@@ -36,6 +36,7 @@ Deep Learning <br />
 [Time Series Prediction for Graphs in Kernel and Dissimilarity Spaces](https://arxiv.org/pdf/1704.06498v1.pdf)<br />
 [Deep Learning for Time-Series Analysis](https://arxiv.org/pdf/1701.01887.pdf) <br />
 [Deep Learning for Time Series Modeling(2012)](http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf)<br />
+[Forecasting Markets using eXtreme Gradient Boosting (XGBoost)](https://www.quantinsti.com/blog/forecasting-markets-using-extreme-gradient-boosting-xgboost)<br />
 
 1.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
