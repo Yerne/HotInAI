@@ -4,6 +4,7 @@
 1.1 General algorithms <br />
 
 Support vector regression <br />
+[Clustering and Support Vector Regression for Water Demand Forecasting and Anomaly Detection](https://pdfs.semanticscholar.org/a432/afe3fc45718301f9986c9ef648887360d192.pdf)<br />
 
 Canonical Correlation Analysis (CCA) <br />
 [Multi Channel-Kernel Canonical Correlation Analysis for Cross-View Person Re-Identification](https://pdfs.semanticscholar.org/02f0/38ed453de0551813159284746126168f5e15.pdf) 
