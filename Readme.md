@@ -38,7 +38,7 @@ Deep Learning <br />
 [Deep Learning for Time-Series Analysis](https://arxiv.org/pdf/1701.01887.pdf) <br />
 [Deep Learning for Time Series Modeling(2012)](http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf)<br />
 [Forecasting Markets using eXtreme Gradient Boosting (XGBoost)](https://www.quantinsti.com/blog/forecasting-markets-using-extreme-gradient-boosting-xgboost)<br />
-[A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://pdfs.semanticscholar.org/a122/e270a13fd34084551372a651c21891dcdfe1.pdf) <br />
+[A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (2017)](https://pdfs.semanticscholar.org/a122/e270a13fd34084551372a651c21891dcdfe1.pdf) <br />
 
 1.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
