@@ -31,7 +31,7 @@ Boltzmann Machines <br />
 Deep Learning <br />
 [Dropout:  A Simple Way to Prevent Neural Networks from Overfitting](https://pdfs.semanticscholar.org/94c9/1c28fa6c9cebd18dbca0ac2e502b1e9abce7.pdf)<br />
 
-1.2 Time Series analysis algorithms <br />
+1.2 Time Series analysis/Potfolio trading algorithms <br />
 [Autoregressive Convolutional Neural Networks for Asynchronous Time Series](https://arxiv.org/pdf/1703.04122.pdf)<br />
 [Grouped Convolutional Neural Networks for Multivariate Time Series](https://arxiv.org/pdf/1703.09938.pdf)<br />
 [The empirical mode decomposition and the Hilbert spectrum for nonlinear and non-stationary time series analysis](https://pdfs.semanticscholar.org/c36e/1ef3eeac0e6119cb2714d044a389a6f805fa.pdf)<br />
@@ -40,6 +40,7 @@ Deep Learning <br />
 [Deep Learning for Time Series Modeling(2012)](http://cs229.stanford.edu/proj2012/BussetiOsbandWong-DeepLearningForTimeSeriesModeling.pdf)<br />
 [Forecasting Markets using eXtreme Gradient Boosting (XGBoost)](https://www.quantinsti.com/blog/forecasting-markets-using-extreme-gradient-boosting-xgboost)<br />
 [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (2017)](https://pdfs.semanticscholar.org/a122/e270a13fd34084551372a651c21891dcdfe1.pdf) <br />
+[Stock Trading Using PE ratio:  A Dynamic Bayesian Network Modeling on Behavioral Finance and Fundamental Investment](https://arxiv.org/pdf/1706.02985.pdf) <br />
 
 1.3 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
