@@ -42,7 +42,7 @@ Deep Learning <br />
 [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (2017)](https://pdfs.semanticscholar.org/a122/e270a13fd34084551372a651c21891dcdfe1.pdf) <br />
 [Stock Trading Using PE ratio:  A Dynamic Bayesian Network Modeling on Behavioral Finance and Fundamental Investment](https://arxiv.org/pdf/1706.02985.pdf (2017)) <br />
 
-1.3 Dimensionality reduction < br />
+1.3 Dimensionality reduction <br />
 [Dimensionality Reduction using Similarity-induced Embeddings 2017](https://pdfs.semanticscholar.org/53c3/7b9f971f37469a0ae70cd581681a403939d7.pdf) <br />
 
 1.4 Other algorithms<br />
