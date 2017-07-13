@@ -1,7 +1,7 @@
 <b> Part I: WHAT WE APPLY<br /></b>
 
 <b>1. Research papers<br /></b>
-1.1 General algorithms <br />
+1.1 Machine learning algorithms <br />
 
 Support vector regression <br />
 [Clustering and Support Vector Regression for Water Demand Forecasting and Anomaly Detection](https://pdfs.semanticscholar.org/a432/afe3fc45718301f9986c9ef648887360d192.pdf)<br />
@@ -42,7 +42,10 @@ Deep Learning <br />
 [A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction (2017)](https://pdfs.semanticscholar.org/a122/e270a13fd34084551372a651c21891dcdfe1.pdf) <br />
 [Stock Trading Using PE ratio:  A Dynamic Bayesian Network Modeling on Behavioral Finance and Fundamental Investment](https://arxiv.org/pdf/1706.02985.pdf (2017)) <br />
 
-1.3 Other algorithms<br />
+1.3 Dimensionality reduction < br />
+[Dimensionality Reduction using Similarity-induced Embeddings 2017](https://pdfs.semanticscholar.org/53c3/7b9f971f37469a0ae70cd581681a403939d7.pdf) <br />
+
+1.4 Other algorithms<br />
 [Food-bridging: a new network construction to unveil the principles of cooking](https://arxiv.org/pdf/1704.03330.pdf)<br />
 [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)<br />
 
